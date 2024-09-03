@@ -76,9 +76,9 @@ class _LoginPageState extends State<LoginPage> {
                 
                 //logo
                 Container(
-                  height:250,
+                  height:300,
                   width: 500,
-                  child:Image.asset('lib/logos/AgriFresh_logo.png'),
+                  child:Image.asset('lib/logos/Fresh2Ulogo.png'),
                 ),
             
                 const SizedBox(height: 0),
