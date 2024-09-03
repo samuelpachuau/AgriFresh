@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091695753405",
+    "project_id": "agrifresh-4dd72",
+    "storage_bucket": "agrifresh-4dd72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091695753405:android:59e6648340024c6b499fd4",
+        "android_client_info": {
+          "package_name": "com.example.agrifresh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4GV10Qyn0BVtpozd0uFtAO6E7Fgv5Hts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
